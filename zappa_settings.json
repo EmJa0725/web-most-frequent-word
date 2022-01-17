@@ -5,6 +5,7 @@
         "project_name": "web-most-frequent_word",
         "runtime": "python3.8",
         "s3_bucket": "zappa-0k1vxgkfr",
-        "aws_region": "us-east-1"
+        "aws_region": "us-east-1",
+        "cors": true
     }
 }
